@@ -37,7 +37,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "Usamos cookies para brindarle la mejor experiencia. Lea nuestra <a href='privacy.html'> política de cookies </a>."
+    "cookiesAlert": "Usamos cookies para darle la mejor experiencia. Lea nuestra <a href='privacy.html'> política de cookies </a>."
   },
   "pages": {
     "index.html": {
