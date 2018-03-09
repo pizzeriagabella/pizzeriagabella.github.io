@@ -1,17 +1,17 @@
 {
   "settings": {
-    "name": "Site-03-06_2348",
+    "name": "RISTORANTE PIZZERIA GABELLA VALLADOLID",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#9c9999",
-        "successColor": "#90a878",
+        "primaryColor": "#c1c1c1",
+        "secondaryColor": "#a38f84",
+        "successColor": "#c1c1c1",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#b8312f",
+        "dangerColor": "#ef211f",
         "titleFont": "Merriweather",
         "subtitleFont": "Merriweather",
         "textFont": "Merriweather",
@@ -24,14 +24,20 @@
         "#a07e49",
         "#7e7c7c",
         "#a7a4a4",
-        "#9c9999"
+        "#9c9999",
+        "#494949",
+        "#832928",
+        "#ef211f"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 63,
+    "uniqCompNum": 86,
     "versionPublish": "4.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "Usamos cookies para brindarle la mejor experiencia. Lea nuestra <a href='privacy.html'> política de cookies </a>."
   },
   "pages": {
     "index.html": {
@@ -110,7 +116,7 @@
           },
           "title": "<div><span style=\"font-weight: normal;\">No somo una franquicia.</span></div><div><span style=\"font-weight: normal;\">Los prouctos para elaborar nuestra carta nos</span></div><div><span style=\"font-weight: normal;\">la suministran&nbsp;diariamente proveedores locale.</span></div><div><br></div>",
           "text": "<b>La pizzeria Gabel´la se fundó en el 2005, con su primer local en Valladolid en el barrio\n<br>residencial de Covaresa, y en el año 2012 se inauguró un local en pleno casco antiguo\n<br>en la calle Plateria una de las mas antiguas y emblematicas, a un paso de la plaza Mayor.&nbsp;<br></b>\n<br><b>En nuestros restaurantes podrás disfrutar de la tradicional y</b>\n<br><b>autentica cocina italiana y española, elaborada al momento.</b>\n<br>\n<br><b>En la Gabel´la recibirás un trato familiar en un ambiente</b>\n<br><b>ideal para celebrar eventos en grupo o en familia.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">GABEL´LA PLATERIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">GABLA´LA COVARESA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header2-1n\" data-toolbar=\"-mbrBtnMove\">GABEL´LA PLATERIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">GABLA´LA COVARESA</a>",
           "_tags": [
             "Tema"
           ],
@@ -178,14 +184,15 @@
               "linkInNewWindow": false,
               "name": "italic",
               "family": "MobiriseIcons",
-              "link": "",
+              "link": "index.html#form1-23",
               "size": "350",
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "title": "<br>GABEL´LA PLATERIA",
           "text": "Situada en la calle Plateria una de la mas antiguas de Valladolid \n<br>en pleno casco antiguo a pocos metros de la plaza Mayor \n<br>\n<br>Disponemos de un amplio comedor con capacidad <br>para 80 comensales, y zona de barra para poder tapear \n<br>\n<br>En temporada de verano se podra disfrutar de una velada en el <br>patio interior y de una amplia terraza en la misma calle peatonal.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features6-2\" data-toolbar=\"-mbrBtnMove\">CARTA</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features6-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENUS</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features6-2\" data-toolbar=\"-mbrBtnMove\">CARTA</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features3-22\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MENUS</a> ",
           "_tags": [
             "Tema"
           ],
@@ -266,14 +273,15 @@
               "linkInNewWindow": false,
               "name": "italic",
               "family": "MobiriseIcons",
-              "link": "",
+              "link": "index.html#form1-23",
               "size": "350",
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "title": "<br>GABEL´LA COVARESA",
           "text": "El restaurante pizzaria Gabel´la se fundó en el 2004 en el barrio \n<br>residencial de covaresa en Valladolid, en un entorno muy tranquilo. \n<br>\n<br>Con un carater mas informal estilo cerveceria se divide en dos espacios,\n<br>una amplia barra con mesas y un comedor ajogedor para 40 comensales. \n<br>\n<br>En temporada de verano con su amplia terraza sin apena paso de coches \n<br>se convierte en un lugar muy agradable para amigos y familias.\n<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features6-1b\" data-toolbar=\"-mbrBtnMove\">CARTA</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#features6-1b\" data-toolbar=\"-mbrBtnMove\">CARTA</a>    ",
           "_tags": [
             "Tema"
           ],
@@ -475,10 +483,10 @@
               "font-family": "'Merriweather', serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -503,7 +511,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#fac51c!important"
             }
           },
           "_params": {
@@ -514,7 +522,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#a07e49",
-            "fontSize": "0.8",
+            "fontSize": "0.9",
             "fontName": {
               "name": "Merriweather",
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
@@ -523,7 +531,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-2\">CARTA PLATERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-2\">MENUS PLATERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1b\">CARTA COVARESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PROMOCION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-2\">CARTA PLATERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-22\">MENUS PLATERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-1b\">CARTA COVARESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-23\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -679,11 +687,127 @@
         },
         {
           "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/28-6-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "MENUS GABEL´LA PLATERIA",
+          "subtitle1": "<br><b>MENU DIARIO 12.90€</b>",
+          "caption1": "De lunes a viernes 13.00h a 15.30h exepto \n<br>en visperas de festivos y festivos \n<br>\n<br><b>PRIMEROS A ELEGIR \n</b><br>Vichyssoise \n<br>Crema de calabacin con queso brie \n<br>Salmorejo con huevo y virutas de jamon \n<br>Pimientos rellenos de bacalao \n<br>Jamon con melon y perlas de mozzarella \n<br>Sardinas ahumada, pimientos y tomate \n<br>Revuelto de boletus y esparragos trigueros \n<br>Provolone con bacon y tomate natural \n<br>Esparragos, salmon y vinagreta de manzana \n<br>Volavan al horno con boloñesa, y bechamel \n<br>Ensalada con queso de cabra y frutos rojos \n<br>Ensalada de pasta \n<br>Ensalada caprese \n<br>\n<br><b>SEGUNDOS A ELEGIR \n</b><br>Pizzas a elegir \n<br>Risotto con chipironcitos y gambas \n<br>Tortellini de carne a la carbonara o boloñesa \n<br>Tagliatelle con verduritas y tomates cherry \n<br>Berenjena de carne gratinada \n<br>Berenjena de verdura gratinada \n<br>Bacalao confitado con tomate y pimientos \n<br>Pesacdo del dia segun mercado \n<br>Solomillo de cerdo con salsa agridulce \n<br>Jamoncitos de pollo guisado a la cerveza \n<br>\n<br>Pan / postre o cafe y bebida incluido.\n<br>\n<br><br>",
+          "title2": "",
+          "subtitle2": "<br><br><b>MENU FESTIVO 15.90€</b>",
+          "caption2": "Sabados, festivos y visperas de festivos \n<br>de 13.00h a 15.30h \n<br>\n<br><b>PRIMEROS A ELEGIR</b> \n<br>Gambones a la plancha \n<br>Pimientos rellenos de bacalao \n<br>Tartar de salmon con aguacate \n<br>Sardinas ahumadas con pimientos y tomate \n<br>Mixto de setas con huevo escalfado y jamon \n<br>Provolone al horno con bacon y tomates naturlal \n<br>Mouse de foie, reduccion de pedro ximenez y piñones \n<br>Esparragos con salmon y vinagreta de manzana \n<br>Macarones / Esapaguetis con boloñesa o carbonara \n<br>Ensalada con queso fresco de cabra y frutos rojos \n<br>Ensalada marinera templada \n<br>Ensalada de ahumados con vinagreta de manzana \n<br>Ensalada con codorniz escabechada y jamon de pato \n<br>\n<br><b>SEGUNDOS A ELEGIR \n</b><br>Pizzas a elegir \n<br>Fiocchi (pasta fresca rellenas) champi, foie, reduccion de p.x. \n<br>Tagliatelle con gambas y tomate cherry \n<br>Risotto de boletus y aceite de trufa \n<br>Risotto con chipironcitos y gambas \n<br>Bacalao confitado con tomate y pimientos \n<br>Taco de atun con salsa de mango y soja \n<br>Pescado del dia según mercado \n<br>Entrecot de añojo con patatas fritas \n<br>Solomillo de cerdo con salsa agridulce \n<br>\n<br>Pan / postre o cafe y bebida incluido.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-22",
+          "_styles": {
+            "H4": {
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            "H5": {
+              "font-size": "24px",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -693,19 +817,19 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "title": "FORMULARIO DE CONTACTO",
+          "subtitle": "¿Deseas contactar con nosotros?\nEnvíanos tus comentarios\nusando el siguiente formulario.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
             "action": "sasadazzi@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Gracias por contactar con nosotros"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nombre*"
               },
               "email": {
                 "visible": true,
@@ -715,11 +839,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Telefono"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Mensaje"
               }
             }
           },
@@ -727,10 +851,61 @@
             "Tema"
           ],
           "_name": "form1",
-          "_anchor": "form1-r",
+          "_anchor": "form1-23",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#494949"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x45.png",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "pin",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Gabel´la Plateria</strong><br>Calle plateria nº 1<br>\nValladolid 47003<br><a href=\"tel:983363902\" class=\"text-success\">Tel: 983 363 902</a><br><a href=\"mailto:info@pizzeriagabella.com\" class=\"text-white\">info@pizzeriagabella.com</a><br><br><a href=\"https://goo.gl/maps/CZoyPjbCHR32\" target=\"_blank\" class=\"text-danger\">LOCALIZADOR</a>",
+          "text2": "<strong>Gabel´la Covaresa</strong><br>Calle Miguel de Unamunno nº 52 Valladolidid 47008<br><a href=\"tel:983246066\" class=\"text-success\">Tel: 983 246 066</a><br><a href=\"mailto:info@pizzeriagabella.com\" class=\"text-white\">info@pizzeriagabella.com</a><br><br><a href=\"https://goo.gl/maps/rRP1Rgfdmrv\" target=\"_blank\" class=\"text-danger\">LOCALIZADOR</a>",
+          "text3": "",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2b",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            },
+            "STRONG": {
+              "font-size": "20px"
             }
           }
         }
